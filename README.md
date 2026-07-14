@@ -3,7 +3,7 @@ I am a Computer Science and Engineering student passionate about software develo
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kuldeep-katre-863557253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuldeepkatre2693@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://kuldeep-portfolio.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kuldeep-katre-863557253) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kuldeepkatre2693@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-style=for-the-badge&logo=google-chrome)](https://kuldeep-portfolio.lovable.app)
 
 
 
